@@ -5,7 +5,7 @@
 
 ### 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-[js_sinanav](https://jiang-lijun.github.io/js_sinanav/)
+https://zhiyuanda.github.io/js_sinanav/
 
 ### 网页代码如下：
 
